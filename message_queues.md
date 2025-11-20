@@ -6,7 +6,7 @@
 - One system sends a message, puts it in the queue
 - Another system reads the message when ready
 
-![Message Queue](/home/jahnavi/Desktop/message_queues/Image.jpg)
+![Message Queue](Image.jpg)
 
 
 ### Why are message queues used?
