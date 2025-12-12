@@ -33,7 +33,7 @@
 5. Remove Shallow Work
 
 - Limit time spent on emails, messages, and routine tasks.
-- Shallow tasks should fit around deep work—not the other way around.
+- Shallow tasks should fit around deep work not the other way around.
 
 6. Make Focus Easy by Controlling Environment
 
@@ -64,7 +64,7 @@
 
 5. Put all small tasks together
 
-- Group all low-brain tasks—like replying to messages, checking emails, or form-filling—into one or two fixed slots. This stops these tiny things from interrupting you every hour and lets you protect long stretches of focus.
+- Group all low-brain tasks like replying to messages, checking emails, or form-filling—into one or two fixed slots. This stops these tiny things from interrupting you every hour and lets you protect long stretches of focus.
 
 ## 4. What are the dangers of social media, in brief?
 
@@ -78,12 +78,12 @@
 
 3. Anxiety and Stress
 
-Notifications, comparison with others, and the pressure to stay “updated” create mental stress. Many people feel anxious when they’re not checking their phone.
+- Notifications, comparison with others, and the pressure to stay “updated” create mental stress. Many people feel anxious when they’re not checking their phone.
 
 4. Comparison and Low Self-Esteem
 
-Seeing only the highlight moments of others’ lives can make you feel like you’re not doing enough. This leads to self-doubt, jealousy, or feelings of inadequacy.
+- Seeing only the highlight moments of others’ lives can make you feel like you’re not doing enough. This leads to self-doubt, jealousy, or feelings of inadequacy.
 
 5. Sleep Problems
 
-Using your phone late at night, especially scrolling endlessly, affects your sleep cycle. Poor sleep impacts mood, memory, and overall health.
+- Using your phone late at night, especially scrolling endlessly, affects your sleep cycle. Poor sleep impacts mood, memory, and overall health.
